@@ -1,0 +1,8 @@
+.title {
+  font-family: var(--type-first);
+  line-height: 1;
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 1rem 0;
+  color: var(--customColor);
+}

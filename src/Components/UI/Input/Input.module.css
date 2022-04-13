@@ -1,0 +1,28 @@
+.inputContainer {
+  margin: 0.5rem 0;
+}
+
+.label {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.input {
+  padding: 0.8rem;
+  border-radius: 4px;
+  background-color: #e5e5e5;
+  border: none;
+  height: 1rem;
+  outline: none;
+  width: 98%;
+  display: block;
+  margin: 0.5rem 0;
+}
+
+.userWidth {
+  width: 20rem;
+}
+
+.contentHeight {
+  height: 20rem;
+}

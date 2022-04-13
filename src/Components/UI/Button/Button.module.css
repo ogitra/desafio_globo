@@ -1,0 +1,38 @@
+.button {
+  background: #0077b6;
+  border-radius: 0.4rem;
+  display: block;
+  font-size: 1rem;
+  border: none;
+  padding: 0.8rem 1.2rem;
+  cursor: pointer;
+  margin: 1rem 0;
+  min-width: 8rem;
+  color: white;
+  font-weight: bold;
+  width: 14%;
+  align-self: flex-end;
+}
+
+.button:hover {
+  outline: none;
+  box-shadow: 0 0 0 2px #0076b6b4;
+}
+
+.buttonEdit {
+  background-color: #0e3b43;
+}
+
+.buttonEdit:hover {
+  outline: none;
+  box-shadow: 0 0 0 2px #14535e;
+}
+
+.buttonDelete {
+  background-color: #d52941;
+}
+
+.buttonDelete:hover {
+  outline: none;
+  box-shadow: 0 0 0 2px #f3344d;
+}

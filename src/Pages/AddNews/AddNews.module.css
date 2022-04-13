@@ -1,0 +1,14 @@
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.addNewsContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.userAndDateContainer {
+  display: flex;
+  justify-content: space-between;
+}

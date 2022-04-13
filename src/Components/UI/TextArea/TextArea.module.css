@@ -1,0 +1,22 @@
+.textAreaContainer {
+  margin: 0.5rem 0;
+}
+
+.label {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.textArea {
+  padding: 0.8rem;
+  border-radius: 4px;
+  background-color: #e5e5e5;
+  border: none;
+  height: 1rem;
+  outline: none;
+  width: 98%;
+  height: 20rem;
+  display: block;
+  margin: 0.5rem 0;
+  resize: none;
+}
